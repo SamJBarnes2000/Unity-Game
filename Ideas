@@ -1,0 +1,28 @@
+-top down 2D game called Slothscape
+-up down left right movement, add diaganal if we can. animated
+-one form of attack, items will be picked up to add bonuses to different stats. attack will have knockback
+-items will be found by chests, possible from side quests/tasks, enimies have a chance to drop them
+-Item List-
+:attack speed
+:damage increase
+:movement speed
+:damage over time(burn/poison)
+:defence
+:health
+:health regen
+-one big map, player will have to do things to open up parts of the map
+-health bar 10 points
+-enimies with ai (1 range(poacher), 1 melee(rat), 1 tank())
+-a boss at the end, depending on ammount of items collected, it will scale in dificulty
+-interact with people on the map, will act as guidence to get through the map. if player stands beside them a dialouge box will give hints on how to continue
+
+
+trimmed down ideas
+-player model
+-movement (up down left right)
+-attack
+-enimies/models
+-map
+-player health
+-enemy health
+-basic items (movement speed, health increase, dammage)
