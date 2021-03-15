@@ -44,9 +44,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Features
+  - name: Background Walls
+    uniqueID: 477297983
+    locked: 0
+  - name: Foreground
     uniqueID: 213298457
     locked: 0
   - name: Player
     uniqueID: 2390881347
+    locked: 0
+  - name: Foreground Walls
+    uniqueID: 1919519281
     locked: 0
