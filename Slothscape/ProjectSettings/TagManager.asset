@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Collectable
+  - Enemy
+  - Sign
+  - MyWeapon
+  - Health-Item
+  - Resistance-Item
+  - Speed-Item
+  - Damage-Item
+  - SpeedText
+  - DamageText
+  - ResistanceText
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -13,10 +25,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Features
+  - PlayerCollider
+  - DoorCollider
   - 
   - 
   - 
@@ -38,8 +50,32 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1110792435
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background Walls
+    uniqueID: 477297983
+    locked: 0
+  - name: Foreground
+    uniqueID: 213298457
+    locked: 0
+  - name: Player
+    uniqueID: 2390881347
+    locked: 0
+  - name: Foreground Walls
+    uniqueID: 1919519281
+    locked: 0
+  - name: UI (Behind)
+    uniqueID: 2886719569
+    locked: 0
+  - name: UI (Front)
+    uniqueID: 2755000069
+    locked: 0
+  - name: Sign
+    uniqueID: 4011923415
     locked: 0
   - name: Player
     uniqueID: 2390881347
